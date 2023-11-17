@@ -14,3 +14,4 @@ Esta asignatura se basa en la Implantación de Aplicaciones Web
 
 
 - [Tarjeta Gráfica NVIDIA GeForce RTX 3080](hardware/hardware1.md)
+- [Procesador Intel i7 6700K](hardware/hardware2.md)

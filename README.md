@@ -1,4 +1,4 @@
-# Sergio Encinas             ------MARIO
+# Sergio Encinas             
 ## Descripción de la Asignatura
 
 Esta asignatura se basa en la Implantación de Aplicaciones Web
